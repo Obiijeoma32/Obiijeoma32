@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Obiijeoma32
+- 👋 Hi, I’m @Candy-obi
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning softwares
 - 💞️ I’m looking to collaborate on js
