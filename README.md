@@ -4,10 +4,14 @@
   <a href="mailto: obiijeoma32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=soc&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
   <a href="https://github.com/obiijeoma32"><img src="https://img.shields.io/github/followers/mmpacker?label=GitHub&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 </div>
+<hr/>
 
 # :woman_technologist: About Me
-- 👋 Hi, I’m <b>Candy Obi</b>
-     I'm a Frontend Developer from Nigeria
+   <h2> Hi, I’m <strong>Candy Obi</strong></h2>
+   I'm a Frontend Developer from Nigeria
+   
+   <hr/>
+   
 # :hammer_and_wrench: Languages and Tools
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40" />&nbsp;
@@ -16,6 +20,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" title="JAVASCRIPT" width="40" height="40" />&nbsp;
           
 </div>
+
 # Stats
 <div align="center" dir="auto">
   <a href="https://github.com/mmpacker/github-readme-stats">
