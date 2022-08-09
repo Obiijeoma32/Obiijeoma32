@@ -5,6 +5,7 @@
   <a href="https://github.com/obiijeoma32"><img src="https://img.shields.io/github/followers/mmpacker?label=GitHub&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 </div>
 <hr/>
+<p> Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.</p>
 
 # :woman_technologist: About Me
    <h2> Hi, I’m <strong>Candy Obi</strong></h2>
@@ -34,7 +35,10 @@
    </a>&nbsp;&nbsp; 
 </div>
 <hr/>
-<h4>I'm currently open to new career opportunities and project collaborations!</h4>
+<h4>.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.</h4>
+<h4>💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+</h4>
 <div dir="auto">
   <span>&nbsp;&nbsp;&nbsp;<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>&nbsp;&nbsp;&nbsp;<strong>Email me</strong> at: <strong><em><a href="mailto: obiijeoma32@gmail.com">obiijeoma32@gmail.com</a></em></strong></span><br>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or</span><br>
