@@ -19,7 +19,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="BOOTSTRAP" title="BOOTSTRAP" width="40" height="40" />&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JAVASCRIPT" title="JAVASCRIPT" width="40" height="40" />&nbsp;
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="JAVASCRIPT" title="JAVASCRIPT" width="40" height="40" />&nbsp;         
 </div>
 
 # Stats
@@ -37,7 +37,7 @@
 <hr/>
 <h4>.
 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.</h4>
-<h4>💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+<h4>💼 Job interests: Software Developer, Front Developer, or UX & UI Designer  (Intern or Junior level).
 </h4>
 <div dir="auto">
   <span>&nbsp;&nbsp;&nbsp;<g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji>&nbsp;&nbsp;&nbsp;<strong>Email me</strong> at: <strong><em><a href="mailto: obiijeoma32@gmail.com">obiijeoma32@gmail.com</a></em></strong></span><br>
