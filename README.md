@@ -5,7 +5,6 @@
   <a href="https://github.com/obiijeoma32"><img src="https://img.shields.io/github/followers/mmpacker?label=GitHub&amp;style=social" style="max-width: 100%;"></a>&nbsp;&nbsp;
 </div>
 <hr/>
-<p> Fun fact: Graduate of AltSchool Africa School of Software Engineering Class of 2022.</p>
 
 # :woman_technologist: About Me
    <h2> Hi, I’m <strong>Candy Obi</strong></h2>
