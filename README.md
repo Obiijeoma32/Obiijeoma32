@@ -8,7 +8,7 @@
 
 # :woman_technologist: About Me
    <h2> Hi, I’m <strong>Candy Obi</strong></h2>
-   I'm a Frontend Developer from Nigeria
+   I'm a Frontend Developer and UI/UX Designer from Nigeria
    
    <hr/>
    
